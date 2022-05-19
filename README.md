@@ -5,7 +5,7 @@
 
 ___
 ### What are your main development tech stack?
-*I'm using React with Redux and Redux-Sagas. Also i use webpack to handle bundles and Typescript to keep my code Clean*
+*I'm using React with Redux and Redux-Sagas. Also i use Webpack to handle bundles and Typescript to keep my code clean*
 ___
 
 ### What is your main interest in development?
