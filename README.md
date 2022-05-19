@@ -9,7 +9,7 @@ ___
 ___
 
 ### What is your main interest in development?
-*I'm keen on providing clear and high qualified solutions in my projects using all modern development principles like SOLID, YAGNI, DRY and KISS. Also i really like to have understang that my work helps people to rich their goals*
+*I'm keen on providing clear and high qualified solutions in my projects using all modern development principles like SOLID, YAGNI, DRY and KISS. Also i really love that my work helps people to rich their goals*
 
 ### How can we reach you?
 *fla19991510@gmail.com*
